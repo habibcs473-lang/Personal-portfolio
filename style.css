@@ -142,7 +142,7 @@ h1 {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(39, 36, 36, 0.5);
+    background: rgba(73, 66, 66, 0.5);
     backdrop-filter: blur(2px);
     z-index: 0;
 }
@@ -156,13 +156,13 @@ h1 {
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 15px;
-    color: #4b2a0b;
+    color: #fd7b02;
 }
 
 .about-section .intro {
     font-size: 32px;
     margin-bottom: 20px;
-    color: #5a2f0c;
+    color: #e96e09;
 }
 
 .description {
@@ -170,16 +170,16 @@ h1 {
     margin: 0 auto 30px;
     line-height: 1.8;
     font-size: 18px;
-    color: #5a2f0c;
+    color: #e96e09;
 }
 
 .highlight {
     font-weight: bold;
-    color: #3b1d05;
+    color: #9b4f11;
 }
 
 .btn-more {
-    background: #5a2f0c;
+    background: #be6115;
     color: white;
     padding: 14px 32px;
     border-radius: 30px;
@@ -194,7 +194,7 @@ h1 {
 }
 
 .btn-more:hover {
-    background: #3b1d05;
+    background: #aa540d;
     transform: translateY(-2px);
 }
 
