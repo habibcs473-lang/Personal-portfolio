@@ -1,7 +1,7 @@
 Name:Maryam Bibi
 Student ID:
 Session:SS_12:00 to 2:00
-Class Instructor: Sir Umar Sajjad
+Class Instructor: Sir Umar Sajid
 Website References:abdulrahmansaied.com,daydreamplayer.com,OFFMENU
 Color:#F67A0D,#111010,#FBFAF9
 Section Inspired:Header,Contact me section,Footer
