@@ -2,10 +2,8 @@
 ---
 
 📌 Student Information
-Name: Maryam Bibi  
-Student ID: 642369 
-Session: SS_12:00 to 2:00  
-Class Instructor: Sir Umar Sajid  
+Name: Maryam  
+  
 
 ---
 
